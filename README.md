@@ -5,8 +5,9 @@ Welcome to my little corner of the internet. 🚀
 ## About Me
 
  Not much to say here. Here are my socials though
-- [Instagram](https://www.instagram.com/ctfu_anand/)
-- [LinkedIn](https://www.linkedin.com/akm-glhf)
+ 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akm-xdd/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/akm-glhf))
 
 ## Connect with Me
 
