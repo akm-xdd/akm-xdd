@@ -14,7 +14,7 @@ Welcome to my little corner of the internet. 🚀
 Want to join forces on a project or just have a chat? Let's connect on [Instagram](https://www.instagram.com/ctfu_anand/) or [LinkedIn](https://www.linkedin.com/akm-glhf). I'm always up for some tech talk or sharing funny memes!
 
 #### Or just refresh this page over and over to increment my view counter.
-[![](https://visitcount.itsvg.in/api?id=akm-xdd&icon=0&color=1)](https://visitcount.itsvg.in)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=akm-xdd%2FViews-Counter)
 
 
 ### My Skills
