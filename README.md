@@ -16,7 +16,7 @@ Want to join forces on a project or just have a chat? Let's connect on [Instagra
 
 
 ### What I do
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,react,mongo,nodejs,express,github,mysql,ps,tailwind,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,html,css,md,latex,bootstrap,tailwind,styledcomponents,react,vite,nodejs,nextjs,express,mongo,mysql,postgres,supabase,github,git,vercel,netlify,linux,powershell,idea,ps,postman,vscode,)]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akm-xdd&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
